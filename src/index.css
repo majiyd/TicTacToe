@@ -1,9 +1,16 @@
 body{
-	font-family: segoe ui;
+	font-family: calibri;
+}
+.board-row{
+	display: flex;
 }
 button{
-	padding: 10px 20px;
+	padding:0;
 	background-color: white;
 	font-size: 2rem;
 	font-weight: bold;
+	height: 65px;
+	width: 65px;
+	text-align: center;
+	line-height: 65px;
 }
