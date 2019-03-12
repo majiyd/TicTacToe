@@ -11,7 +11,6 @@ function Square(props){
 }
 
 class Board extends React.Component{
-
 	renderSquare(i){
 		return (
 			<Square 
